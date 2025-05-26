@@ -1,0 +1,2 @@
+bote os arquivos na pasta htdocs do xampp, depois acesse pelo navegador com a 
+pesquisa "localhost/nomeDoArquivo".
